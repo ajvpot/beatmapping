@@ -1,0 +1,31 @@
+{
+  "_customData": {
+    "_time": 3,
+    "_BPMChanges": [
+      {
+        "_BPM": 120,
+        "_time": 46.200000762939453,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 4
+      },
+      {
+        "_BPM": 121,
+        "_time": 48.200000762939453,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 4
+      },
+      {
+        "_BPM": 120,
+        "_time": 49.245998382568359,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 4
+      }
+    ],
+    "_bookmarks": [
+      {
+        "_time": 11.199999809265137,
+        "_name": "some bookmark"
+      }
+    ]
+  }
+}
