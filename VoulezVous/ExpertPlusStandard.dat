@@ -2,7 +2,1905 @@
   "_version": "2.2.0",
   "_customData": {
     "_time": 0,
-    "_BPMChanges": [{"_BPM": 129.668, "_time": 2, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.148, "_time": 2, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.148, "_time": 4, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.283, "_time": 4, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.283, "_time": 4, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.705, "_time": 4, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.705, "_time": 6, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.885, "_time": 6, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.885, "_time": 7, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.354, "_time": 7, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.354, "_time": 8, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.316, "_time": 8, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.316, "_time": 10, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.249, "_time": 10, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.249, "_time": 12, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.114, "_time": 12, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.114, "_time": 14, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.056, "_time": 14, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.056, "_time": 20, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 130.992, "_time": 20, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 130.992, "_time": 20, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 116.931, "_time": 20, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 116.931, "_time": 21, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 140.337, "_time": 21, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 140.337, "_time": 21, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 120.704, "_time": 21, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 120.704, "_time": 22, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 121.694, "_time": 22, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 121.694, "_time": 22, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 131.507, "_time": 22, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 131.507, "_time": 23, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.887, "_time": 23, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.887, "_time": 24, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.863, "_time": 24, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.863, "_time": 27, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.405, "_time": 27, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.405, "_time": 28, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.928, "_time": 28, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.928, "_time": 30, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 122.778, "_time": 30, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 122.778, "_time": 31, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.04, "_time": 31, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.04, "_time": 32, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.597, "_time": 32, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.597, "_time": 34, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.835, "_time": 34, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.835, "_time": 34, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.835, "_time": 34, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.835, "_time": 36, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.015, "_time": 36, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.015, "_time": 38, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.744, "_time": 38, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.744, "_time": 40, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.13, "_time": 40, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.13, "_time": 44, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.343, "_time": 44, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.343, "_time": 48, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.586, "_time": 48, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.586, "_time": 52, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.256, "_time": 52, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.256, "_time": 56, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.489, "_time": 56, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.489, "_time": 60, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.85, "_time": 60, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.85, "_time": 64, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.218, "_time": 64, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.218, "_time": 76, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.655, "_time": 76, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.655, "_time": 80, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 130.124, "_time": 80, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 130.124, "_time": 84, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.923, "_time": 84, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.923, "_time": 88, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.828, "_time": 88, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.828, "_time": 92, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.669, "_time": 92, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.669, "_time": 96, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.64, "_time": 96, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.64, "_time": 100, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.36, "_time": 100, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.36, "_time": 104, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.896, "_time": 104, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.896, "_time": 108, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.689, "_time": 108, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.689, "_time": 109, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.219, "_time": 109, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.219, "_time": 110, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.305, "_time": 110, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.305, "_time": 111, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 121.848, "_time": 111, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 121.848, "_time": 112, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.61, "_time": 112, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.61, "_time": 113, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 122.465, "_time": 113, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 122.465, "_time": 114, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.697, "_time": 114, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.697, "_time": 115, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 137.184, "_time": 115, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 137.184, "_time": 116, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.072, "_time": 116, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.072, "_time": 120, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.321, "_time": 120, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.321, "_time": 124, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.913, "_time": 124, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.913, "_time": 128, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.534, "_time": 128, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.534, "_time": 132, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.456, "_time": 132, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.456, "_time": 136, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.19, "_time": 136, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.19, "_time": 140, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.41, "_time": 140, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.41, "_time": 144, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.063, "_time": 144, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.063, "_time": 148, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.377, "_time": 148, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.377, "_time": 152, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.377, "_time": 152, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.377, "_time": 153, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.095, "_time": 153, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.095, "_time": 154, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.671, "_time": 154, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.671, "_time": 155, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.457, "_time": 155, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.457, "_time": 156, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.266, "_time": 156, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.266, "_time": 157, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 133.463, "_time": 157, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 133.463, "_time": 158, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.789, "_time": 158, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.789, "_time": 159, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.111, "_time": 159, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.111, "_time": 160, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 121.197, "_time": 160, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 121.197, "_time": 161, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.998, "_time": 161, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.998, "_time": 163, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.92, "_time": 163, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.92, "_time": 164, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.799, "_time": 164, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.799, "_time": 166, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.039, "_time": 166, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.039, "_time": 167, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 131.387, "_time": 167, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 131.387, "_time": 167, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.885, "_time": 167, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.885, "_time": 168, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.385, "_time": 168, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.385, "_time": 172, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.3, "_time": 172, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.3, "_time": 176, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.92, "_time": 176, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.92, "_time": 180, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.312, "_time": 180, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.312, "_time": 184, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.744, "_time": 184, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.744, "_time": 188, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.538, "_time": 188, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.538, "_time": 192, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.688, "_time": 192, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.688, "_time": 196, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.257, "_time": 196, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.257, "_time": 200, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.265, "_time": 200, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.265, "_time": 208, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.153, "_time": 208, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.153, "_time": 216, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.328, "_time": 216, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.328, "_time": 224, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.066, "_time": 224, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.066, "_time": 232, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.52, "_time": 232, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.52, "_time": 236, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.428, "_time": 236, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.428, "_time": 240, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.668, "_time": 240, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.668, "_time": 244, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.358, "_time": 244, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.358, "_time": 246, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.106, "_time": 246, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.106, "_time": 248, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.133, "_time": 248, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.133, "_time": 252, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.366, "_time": 252, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.366, "_time": 256, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.899, "_time": 256, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.899, "_time": 260, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.741, "_time": 260, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.741, "_time": 264, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.943, "_time": 264, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.943, "_time": 268, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.144, "_time": 268, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.144, "_time": 270, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.501, "_time": 270, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.501, "_time": 272, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.951, "_time": 272, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.951, "_time": 274, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.035, "_time": 274, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.035, "_time": 276, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.648, "_time": 276, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.648, "_time": 277, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.268, "_time": 277, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.268, "_time": 278, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 117.565, "_time": 278, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 117.565, "_time": 279, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.328, "_time": 279, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.328, "_time": 280, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.451, "_time": 280, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.451, "_time": 281, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.107, "_time": 281, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.107, "_time": 282, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.549, "_time": 282, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.549, "_time": 283, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.906, "_time": 283, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.906, "_time": 284, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.998, "_time": 284, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.998, "_time": 285, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.111, "_time": 285, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.111, "_time": 286, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.332, "_time": 286, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.332, "_time": 288, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.484, "_time": 288, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.484, "_time": 290, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.386, "_time": 290, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.386, "_time": 292, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.332, "_time": 292, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.332, "_time": 294, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.315, "_time": 294, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.315, "_time": 296, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 122.22, "_time": 296, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 122.22, "_time": 297, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.409, "_time": 297, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.409, "_time": 300, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.061, "_time": 300, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.061, "_time": 301, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.191, "_time": 301, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.191, "_time": 302, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.139, "_time": 302, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.139, "_time": 303, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.217, "_time": 303, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.217, "_time": 304, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.389, "_time": 304, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.389, "_time": 306, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.389, "_time": 306, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.389, "_time": 308, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.766, "_time": 308, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.766, "_time": 310, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.393, "_time": 310, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.393, "_time": 311, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 116.438, "_time": 311, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 116.438, "_time": 312, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.103, "_time": 312, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.103, "_time": 313, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.271, "_time": 313, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.271, "_time": 314, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.918, "_time": 314, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.918, "_time": 315, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.514, "_time": 315, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.514, "_time": 316, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.525, "_time": 316, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.525, "_time": 319, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 109.974, "_time": 319, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 109.974, "_time": 319, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 133.904, "_time": 319, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 133.904, "_time": 320, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.038, "_time": 320, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.038, "_time": 321, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.527, "_time": 321, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.527, "_time": 322, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.547, "_time": 322, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.547, "_time": 322, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.415, "_time": 322, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.415, "_time": 323, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.005, "_time": 323, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.005, "_time": 324, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.159, "_time": 324, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.159, "_time": 325, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.321, "_time": 325, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.321, "_time": 326, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.38, "_time": 326, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.38, "_time": 326, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.778, "_time": 326, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.778, "_time": 327, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.377, "_time": 327, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.377, "_time": 328, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.634, "_time": 328, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.634, "_time": 330, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.255, "_time": 330, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.255, "_time": 332, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 130.388, "_time": 332, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 130.388, "_time": 334, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.521, "_time": 334, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.521, "_time": 335, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.023, "_time": 335, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.023, "_time": 336, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.073, "_time": 336, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.073, "_time": 337, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.67, "_time": 337, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.67, "_time": 340, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.885, "_time": 340, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.885, "_time": 341, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.399, "_time": 341, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.399, "_time": 342, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.814, "_time": 342, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.814, "_time": 344, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.699, "_time": 344, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.699, "_time": 346, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.154, "_time": 346, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.154, "_time": 348, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.688, "_time": 348, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.688, "_time": 350, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.571, "_time": 350, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.571, "_time": 351, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.114, "_time": 351, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.114, "_time": 353, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.439, "_time": 353, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.439, "_time": 354, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.451, "_time": 354, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.451, "_time": 355, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.881, "_time": 355, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.881, "_time": 356, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.987, "_time": 356, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.987, "_time": 357, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.772, "_time": 357, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.772, "_time": 358, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.481, "_time": 358, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.481, "_time": 359, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 120.598, "_time": 359, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 120.598, "_time": 360, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.814, "_time": 360, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.814, "_time": 362, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.209, "_time": 362, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.209, "_time": 363, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.209, "_time": 363, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.209, "_time": 364, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.749, "_time": 364, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.749, "_time": 365, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.107, "_time": 365, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.107, "_time": 366, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.858, "_time": 366, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.858, "_time": 367, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.796, "_time": 367, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.796, "_time": 368, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.224, "_time": 368, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.224, "_time": 369, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.0, "_time": 369, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.0, "_time": 370, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 131.034, "_time": 370, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 131.034, "_time": 371, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.136, "_time": 371, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.136, "_time": 373, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.749, "_time": 373, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.749, "_time": 374, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.241, "_time": 374, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.241, "_time": 375, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.557, "_time": 375, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.557, "_time": 376, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 122.319, "_time": 376, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 122.319, "_time": 377, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.712, "_time": 377, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.712, "_time": 379, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.547, "_time": 379, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.547, "_time": 382, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.66, "_time": 382, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.66, "_time": 383, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.78, "_time": 383, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.78, "_time": 384, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.791, "_time": 384, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.791, "_time": 385, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.833, "_time": 385, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.833, "_time": 386, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.537, "_time": 386, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.537, "_time": 387, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 130.802, "_time": 387, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 130.802, "_time": 387, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.262, "_time": 387, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.262, "_time": 388, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.834, "_time": 388, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.834, "_time": 392, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.671, "_time": 392, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.671, "_time": 393, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.403, "_time": 393, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.403, "_time": 394, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.279, "_time": 394, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.279, "_time": 396, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.863, "_time": 396, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.863, "_time": 400, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.303, "_time": 400, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.303, "_time": 401, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.303, "_time": 401, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.303, "_time": 403, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.671, "_time": 403, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.671, "_time": 404, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.524, "_time": 404, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.524, "_time": 408, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.261, "_time": 408, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.261, "_time": 409, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.04, "_time": 409, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.04, "_time": 410, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.357, "_time": 410, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.357, "_time": 411, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.357, "_time": 411, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.357, "_time": 412, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.177, "_time": 412, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.177, "_time": 414, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.497, "_time": 414, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.497, "_time": 415, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 134.066, "_time": 415, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 134.066, "_time": 415, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.754, "_time": 415, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.754, "_time": 416, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.618, "_time": 416, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.618, "_time": 419, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.44, "_time": 419, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.44, "_time": 420, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.554, "_time": 420, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.554, "_time": 421, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.087, "_time": 421, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.087, "_time": 422, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 132.11, "_time": 422, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 132.11, "_time": 423, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 120.344, "_time": 423, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 120.344, "_time": 424, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.948, "_time": 424, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.948, "_time": 425, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 120.871, "_time": 425, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 120.871, "_time": 426, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 131.453, "_time": 426, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 131.453, "_time": 427, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.224, "_time": 427, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.224, "_time": 428, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.108, "_time": 428, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.108, "_time": 429, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.633, "_time": 429, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.633, "_time": 430, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.869, "_time": 430, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.869, "_time": 432, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.125, "_time": 432, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.125, "_time": 434, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.821, "_time": 434, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.821, "_time": 435, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.203, "_time": 435, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.203, "_time": 436, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.466, "_time": 436, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.466, "_time": 437, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.902, "_time": 437, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.902, "_time": 438, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.719, "_time": 438, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.719, "_time": 440, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.96, "_time": 440, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.96, "_time": 441, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.445, "_time": 441, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.445, "_time": 442, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 122.762, "_time": 442, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 122.762, "_time": 443, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.573, "_time": 443, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.573, "_time": 444, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.788, "_time": 444, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.788, "_time": 445, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.607, "_time": 445, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.607, "_time": 448, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.307, "_time": 448, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.307, "_time": 448, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.533, "_time": 448, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.533, "_time": 452, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.211, "_time": 452, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.211, "_time": 454, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 119.195, "_time": 454, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 119.195, "_time": 455, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.334, "_time": 455, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.334, "_time": 456, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.833, "_time": 456, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.833, "_time": 457, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.142, "_time": 457, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.142, "_time": 459, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.266, "_time": 459, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.266, "_time": 460, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.201, "_time": 460, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.201, "_time": 463, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.299, "_time": 463, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.299, "_time": 464, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.559, "_time": 464, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.559, "_time": 468, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.847, "_time": 468, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.847, "_time": 472, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.738, "_time": 472, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.738, "_time": 478, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.573, "_time": 478, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.573, "_time": 480, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.98, "_time": 480, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.98, "_time": 484, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.417, "_time": 484, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.417, "_time": 488, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.356, "_time": 488, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.356, "_time": 496, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.212, "_time": 496, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.212, "_time": 500, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.889, "_time": 500, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.889, "_time": 502, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.896, "_time": 502, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.896, "_time": 503, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.919, "_time": 503, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.919, "_time": 504, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.141, "_time": 504, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.141, "_time": 505, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.314, "_time": 505, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.314, "_time": 506, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.841, "_time": 506, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 129.841, "_time": 507, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.69, "_time": 507, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.69, "_time": 508, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.124, "_time": 508, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.124, "_time": 509, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.779, "_time": 509, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.779, "_time": 510, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.338, "_time": 510, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.338, "_time": 511, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.456, "_time": 511, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.456, "_time": 512, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.293, "_time": 512, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 124.293, "_time": 513, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 122.532, "_time": 513, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 122.532, "_time": 514, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.453, "_time": 514, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 127.453, "_time": 516, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.708, "_time": 516, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 128.708, "_time": 520, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.773, "_time": 520, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.773, "_time": 524, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.233, "_time": 524, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.233, "_time": 526, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.523, "_time": 526, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 125.523, "_time": 528, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 122.21, "_time": 528, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 122.21, "_time": 529, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.218, "_time": 529, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 123.218, "_time": 533, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.309, "_time": 533, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.309, "_time": 533, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.376, "_time": 533, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 126.376, "_time": 533, "_beatsPerBar": 4, "_metronomeOffset": 4}, {"_BPM": 120.0, "_time": 533, "_beatsPerBar": 4, "_metronomeOffset": 4}],
+    "_BPMChanges": [
+      {
+        "_BPM": 210.1001258412212,
+        "_secTime": 0,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 0.0
+      },
+      {
+        "_BPM": 129.6684000810428,
+        "_secTime": 2.0677499999999998,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 8.270999999999999
+      },
+      {
+        "_BPM": 129.14798206278027,
+        "_secTime": 2.9969166666666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 11.987666666666666
+      },
+      {
+        "_BPM": 127.28344988344988,
+        "_secTime": 3.4656666666666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 13.862666666666666
+      },
+      {
+        "_BPM": 128.70510966235793,
+        "_secTime": 3.934458333333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 15.737833333333333
+      },
+      {
+        "_BPM": 125.88512981904016,
+        "_secTime": 4.411083333333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 17.644333333333332
+      },
+      {
+        "_BPM": 125.35364526659416,
+        "_secTime": 4.889729166666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 19.558916666666665
+      },
+      {
+        "_BPM": 129.3161510484486,
+        "_secTime": 5.8176875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 23.27075
+      },
+      {
+        "_BPM": 129.24941097273643,
+        "_secTime": 6.746125,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 26.9845
+      },
+      {
+        "_BPM": 126.1138966128786,
+        "_secTime": 7.697645833333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 30.79058333333333
+      },
+      {
+        "_BPM": 128.05596519960574,
+        "_secTime": 10.508916666666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 42.035666666666664
+      },
+      {
+        "_BPM": 130.99244974074418,
+        "_secTime": 10.7379375,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 42.95175
+      },
+      {
+        "_BPM": 116.93057247259388,
+        "_secTime": 10.9945,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 43.978
+      },
+      {
+        "_BPM": 140.3371991034013,
+        "_secTime": 11.208270833333334,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 44.833083333333335
+      },
+      {
+        "_BPM": 120.70410729254003,
+        "_secTime": 11.4568125,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 45.82725
+      },
+      {
+        "_BPM": 121.69356883292488,
+        "_secTime": 11.703333333333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 46.81333333333333
+      },
+      {
+        "_BPM": 131.5068493150683,
+        "_secTime": 11.931458333333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 47.725833333333334
+      },
+      {
+        "_BPM": 123.88695315524592,
+        "_secTime": 12.415770833333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 49.66308333333333
+      },
+      {
+        "_BPM": 126.86293223698708,
+        "_secTime": 13.834624999999999,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 55.338499999999996
+      },
+      {
+        "_BPM": 128.4051897097506,
+        "_secTime": 14.301895833333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 57.20758333333333
+      },
+      {
+        "_BPM": 126.92816218598503,
+        "_secTime": 15.2473125,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 60.98925
+      },
+      {
+        "_BPM": 122.77784882977383,
+        "_secTime": 15.735999999999999,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 62.943999999999996
+      },
+      {
+        "_BPM": 128.0398346152135,
+        "_secTime": 16.204604166666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 64.81841666666666
+      },
+      {
+        "_BPM": 124.5971143654415,
+        "_secTime": 17.167708333333334,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 68.67083333333333
+      },
+      {
+        "_BPM": 127.83522811746187,
+        "_secTime": 17.632749999999998,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 70.53099999999999
+      },
+      {
+        "_BPM": 127.83524093780929,
+        "_secTime": 18.106416666666664,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 72.42566666666666
+      },
+      {
+        "_BPM": 127.0149286643582,
+        "_secTime": 19.0511875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 76.20475
+      },
+      {
+        "_BPM": 126.74382783963394,
+        "_secTime": 19.997979166666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 79.99191666666667
+      },
+      {
+        "_BPM": 127.12986669020924,
+        "_secTime": 21.8858125,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 87.54325
+      },
+      {
+        "_BPM": 126.34349638078531,
+        "_secTime": 23.785395833333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 95.14158333333333
+      },
+      {
+        "_BPM": 127.58605413547163,
+        "_secTime": 25.666479166666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 102.66591666666666
+      },
+      {
+        "_BPM": 126.25626075424964,
+        "_secTime": 27.567375,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 110.2695
+      },
+      {
+        "_BPM": 125.48882909772212,
+        "_secTime": 29.479895833333334,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 117.91958333333334
+      },
+      {
+        "_BPM": 126.84989429175478,
+        "_secTime": 31.371895833333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 125.48758333333333
+      },
+      {
+        "_BPM": 126.21844995270469,
+        "_secTime": 37.07629166666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 148.30516666666665
+      },
+      {
+        "_BPM": 124.6550884596654,
+        "_secTime": 39.00160416666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 156.00641666666667
+      },
+      {
+        "_BPM": 130.12391139826752,
+        "_secTime": 40.846,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 163.384
+      },
+      {
+        "_BPM": 128.92251219839727,
+        "_secTime": 42.70758333333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 170.83033333333333
+      },
+      {
+        "_BPM": 126.82754976219837,
+        "_secTime": 44.599916666666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 178.39966666666666
+      },
+      {
+        "_BPM": 127.66947790719573,
+        "_secTime": 46.47977083333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 185.91908333333333
+      },
+      {
+        "_BPM": 128.64034304091507,
+        "_secTime": 48.345437499999996,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 193.38174999999998
+      },
+      {
+        "_BPM": 125.36046574895263,
+        "_secTime": 50.25991666666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 201.03966666666665
+      },
+      {
+        "_BPM": 127.8962619208861,
+        "_secTime": 52.1364375,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 208.54575
+      },
+      {
+        "_BPM": 129.6888368532445,
+        "_secTime": 52.59908333333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 210.39633333333333
+      },
+      {
+        "_BPM": 123.2190989603398,
+        "_secTime": 53.08602083333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 212.34408333333332
+      },
+      {
+        "_BPM": 129.3045391280915,
+        "_secTime": 53.550041666666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 214.20016666666666
+      },
+      {
+        "_BPM": 121.8480284312074,
+        "_secTime": 54.04245833333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 216.16983333333332
+      },
+      {
+        "_BPM": 123.61045538435077,
+        "_secTime": 54.527854166666664,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 218.11141666666666
+      },
+      {
+        "_BPM": 122.46460007653953,
+        "_secTime": 55.01779166666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 220.07116666666667
+      },
+      {
+        "_BPM": 127.69677431654246,
+        "_secTime": 55.48765474912221,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 221.95061899648883
+      },
+      {
+        "_BPM": 137.18445441707223,
+        "_secTime": 55.92502208972179,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 223.70008835888717
+      },
+      {
+        "_BPM": 127.07245621754147,
+        "_secTime": 57.81370833333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 231.25483333333332
+      },
+      {
+        "_BPM": 128.32080200501275,
+        "_secTime": 59.68402083333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 238.7360833333333
+      },
+      {
+        "_BPM": 125.91264810038025,
+        "_secTime": 61.59010416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 246.36041666666665
+      },
+      {
+        "_BPM": 126.53361598365606,
+        "_secTime": 63.48683333333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 253.94733333333332
+      },
+      {
+        "_BPM": 124.45577606603072,
+        "_secTime": 65.41522916666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 261.66091666666665
+      },
+      {
+        "_BPM": 127.19022225166427,
+        "_secTime": 67.30216666666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 269.20866666666666
+      },
+      {
+        "_BPM": 127.40966853578465,
+        "_secTime": 69.18585416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 276.74341666666663
+      },
+      {
+        "_BPM": 127.06256066354864,
+        "_secTime": 71.0746875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 284.29875
+      },
+      {
+        "_BPM": 127.37726669615174,
+        "_secTime": 72.95885416666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 291.8354166666667
+      },
+      {
+        "_BPM": 123.3774579102951,
+        "_secTime": 73.44516666666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 293.78066666666666
+      },
+      {
+        "_BPM": 126.09457092819784,
+        "_secTime": 73.92099999999999,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 295.68399999999997
+      },
+      {
+        "_BPM": 127.67089280964501,
+        "_secTime": 74.39095833333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 297.5638333333333
+      },
+      {
+        "_BPM": 128.4567350579835,
+        "_secTime": 74.85804166666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 299.43216666666666
+      },
+      {
+        "_BPM": 125.26640859466879,
+        "_secTime": 75.33702083333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 301.3480833333333
+      },
+      {
+        "_BPM": 133.4630891144171,
+        "_secTime": 75.78658333333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 303.1463333333333
+      },
+      {
+        "_BPM": 124.7887690107893,
+        "_secTime": 76.26739583333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 305.0695833333333
+      },
+      {
+        "_BPM": 126.11113543810237,
+        "_secTime": 76.74316666666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 306.97266666666667
+      },
+      {
+        "_BPM": 121.19681858351143,
+        "_secTime": 77.23822916666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 308.9529166666667
+      },
+      {
+        "_BPM": 126.99812589571155,
+        "_secTime": 78.183125,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 312.7325
+      },
+      {
+        "_BPM": 127.92040508128594,
+        "_secTime": 78.65216666666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 314.60866666666664
+      },
+      {
+        "_BPM": 123.79908440260482,
+        "_secTime": 79.62147916666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 318.48591666666664
+      },
+      {
+        "_BPM": 126.0393873085319,
+        "_secTime": 80.09752083333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 320.39008333333334
+      },
+      {
+        "_BPM": 131.38686131387362,
+        "_secTime": 80.32585416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 321.30341666666664
+      },
+      {
+        "_BPM": 125.88512981903678,
+        "_secTime": 80.56416666666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 322.25666666666666
+      },
+      {
+        "_BPM": 125.38502563209546,
+        "_secTime": 82.47827083333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 329.9130833333333
+      },
+      {
+        "_BPM": 127.29985082048746,
+        "_secTime": 84.36358333333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 337.4543333333333
+      },
+      {
+        "_BPM": 126.91977172068762,
+        "_secTime": 86.25454166666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 345.0181666666667
+      },
+      {
+        "_BPM": 126.31163448570837,
+        "_secTime": 88.15460416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 352.61841666666663
+      },
+      {
+        "_BPM": 126.74382783963345,
+        "_secTime": 90.0481875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 360.19275
+      },
+      {
+        "_BPM": 127.53802891747634,
+        "_secTime": 91.92997916666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 367.7199166666667
+      },
+      {
+        "_BPM": 127.68787408556888,
+        "_secTime": 93.8095625,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 375.23825
+      },
+      {
+        "_BPM": 125.25687444955507,
+        "_secTime": 95.725625,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 382.9025
+      },
+      {
+        "_BPM": 127.26539585393188,
+        "_secTime": 99.49727083333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 397.9890833333333
+      },
+      {
+        "_BPM": 126.15325649519535,
+        "_secTime": 103.30216666666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 413.20866666666666
+      },
+      {
+        "_BPM": 124.3281745774786,
+        "_secTime": 107.16291666666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 428.65166666666664
+      },
+      {
+        "_BPM": 125.066495858258,
+        "_secTime": 111.000875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 444.0035
+      },
+      {
+        "_BPM": 126.51971928437237,
+        "_secTime": 112.8978125,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 451.59125
+      },
+      {
+        "_BPM": 124.42754687635035,
+        "_secTime": 114.82664583333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 459.3065833333333
+      },
+      {
+        "_BPM": 125.66815752154488,
+        "_secTime": 116.7364375,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 466.94575
+      },
+      {
+        "_BPM": 124.35770110971858,
+        "_secTime": 117.70139583333334,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 470.80558333333335
+      },
+      {
+        "_BPM": 124.10583469792346,
+        "_secTime": 118.6683125,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 474.67325
+      },
+      {
+        "_BPM": 127.13267265544016,
+        "_secTime": 120.55610416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 482.2244166666666
+      },
+      {
+        "_BPM": 127.36600035379367,
+        "_secTime": 122.4404375,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 489.76175
+      },
+      {
+        "_BPM": 126.89880040977809,
+        "_secTime": 124.33170833333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 497.3268333333333
+      },
+      {
+        "_BPM": 126.74103901247607,
+        "_secTime": 126.22533333333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 504.9013333333333
+      },
+      {
+        "_BPM": 128.94271451277066,
+        "_secTime": 128.086625,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 512.3465
+      },
+      {
+        "_BPM": 125.14393655315669,
+        "_secTime": 128.5665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 514.266
+      },
+      {
+        "_BPM": 125.14393795653139,
+        "_secTime": 129.04552083333334,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 516.1820833333334
+      },
+      {
+        "_BPM": 127.50132813883755,
+        "_secTime": 129.9866875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 519.94675
+      },
+      {
+        "_BPM": 125.95119391235781,
+        "_secTime": 130.9394375,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 523.75775
+      },
+      {
+        "_BPM": 127.03453751488658,
+        "_secTime": 131.8840625,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 527.53625
+      },
+      {
+        "_BPM": 127.64825813314224,
+        "_secTime": 132.35410416666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 529.4164166666667
+      },
+      {
+        "_BPM": 128.26793746938063,
+        "_secTime": 132.821875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 531.2875
+      },
+      {
+        "_BPM": 117.56541617341409,
+        "_secTime": 133.33222916666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 533.3289166666666
+      },
+      {
+        "_BPM": 129.32776505455615,
+        "_secTime": 133.79616666666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 535.1846666666667
+      },
+      {
+        "_BPM": 123.45149813536948,
+        "_secTime": 134.2821875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 537.12875
+      },
+      {
+        "_BPM": 129.1074550589487,
+        "_secTime": 134.74691666666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 538.9876666666667
+      },
+      {
+        "_BPM": 129.54882821285727,
+        "_secTime": 135.2100625,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 540.84025
+      },
+      {
+        "_BPM": 126.90579007667247,
+        "_secTime": 135.68285416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 542.7314166666666
+      },
+      {
+        "_BPM": 128.99758129535059,
+        "_secTime": 136.14797916666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 544.5919166666666
+      },
+      {
+        "_BPM": 126.11113543810237,
+        "_secTime": 136.62375,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 546.495
+      },
+      {
+        "_BPM": 126.33241215949579,
+        "_secTime": 137.573625,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 550.2945
+      },
+      {
+        "_BPM": 127.4843964410599,
+        "_secTime": 138.51491666666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 554.0596666666667
+      },
+      {
+        "_BPM": 125.38639035221357,
+        "_secTime": 139.47195833333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 557.8878333333333
+      },
+      {
+        "_BPM": 127.33221328145633,
+        "_secTime": 140.414375,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 561.6575
+      },
+      {
+        "_BPM": 127.31532646656092,
+        "_secTime": 141.35691666666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 565.4276666666666
+      },
+      {
+        "_BPM": 122.220336105918,
+        "_secTime": 141.84783333333334,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 567.3913333333334
+      },
+      {
+        "_BPM": 127.40919882618444,
+        "_secTime": 143.26060416666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 573.0424166666667
+      },
+      {
+        "_BPM": 126.06145495929515,
+        "_secTime": 143.7365625,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 574.94625
+      },
+      {
+        "_BPM": 124.19146183699841,
+        "_secTime": 144.2196875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 576.87875
+      },
+      {
+        "_BPM": 126.1387526278863,
+        "_secTime": 144.69535416666668,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 578.7814166666667
+      },
+      {
+        "_BPM": 123.21743598297589,
+        "_secTime": 145.18229823851289,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 580.7291929540515
+      },
+      {
+        "_BPM": 127.3889742514987,
+        "_secTime": 146.13491666666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 584.5396666666667
+      },
+      {
+        "_BPM": 127.388984656464,
+        "_secTime": 147.06629166666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 588.2651666666667
+      },
+      {
+        "_BPM": 126.76614287600911,
+        "_secTime": 148.01291666666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 592.0516666666666
+      },
+      {
+        "_BPM": 126.39339945580586,
+        "_secTime": 148.72497916666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 594.8999166666666
+      },
+      {
+        "_BPM": 116.43778209587754,
+        "_secTime": 148.9826274957571,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 595.9305099830284
+      },
+      {
+        "_BPM": 129.102571253,
+        "_secTime": 149.68064583333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 598.7225833333333
+      },
+      {
+        "_BPM": 126.27058241054655,
+        "_secTime": 149.9173125,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 599.66925
+      },
+      {
+        "_BPM": 125.91815320042309,
+        "_secTime": 150.3938125,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 601.57525
+      },
+      {
+        "_BPM": 129.51387327427477,
+        "_secTime": 150.85708333333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 603.4283333333333
+      },
+      {
+        "_BPM": 126.52481438633869,
+        "_secTime": 152.27972916666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 609.1189166666667
+      },
+      {
+        "_BPM": 109.97403390866768,
+        "_secTime": 152.55252083333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 610.2100833333333
+      },
+      {
+        "_BPM": 133.9036637530233,
+        "_secTime": 152.77656249999998,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 611.1062499999999
+      },
+      {
+        "_BPM": 125.03798897233963,
+        "_secTime": 153.25641666666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 613.0256666666667
+      },
+      {
+        "_BPM": 126.52666725243732,
+        "_secTime": 153.730625,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 614.9225
+      },
+      {
+        "_BPM": 127.5465013286098,
+        "_secTime": 153.96583333333334,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 615.8633333333333
+      },
+      {
+        "_BPM": 129.41493664060977,
+        "_secTime": 154.19764583333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 616.7905833333333
+      },
+      {
+        "_BPM": 125.00542558270395,
+        "_secTime": 154.677625,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 618.7105
+      },
+      {
+        "_BPM": 128.15948736205198,
+        "_secTime": 155.14579166666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 620.5831666666667
+      },
+      {
+        "_BPM": 127.32095490716243,
+        "_secTime": 155.61704166666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 622.4681666666667
+      },
+      {
+        "_BPM": 129.38005390835454,
+        "_secTime": 155.84891666666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 623.3956666666667
+      },
+      {
+        "_BPM": 128.77839384725695,
+        "_secTime": 156.081875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 624.3275
+      },
+      {
+        "_BPM": 123.3774579102951,
+        "_secTime": 156.5681875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 626.27275
+      },
+      {
+        "_BPM": 127.63411553546399,
+        "_secTime": 157.508375,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 630.0335
+      },
+      {
+        "_BPM": 129.25521172273065,
+        "_secTime": 158.43677083333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 633.7470833333333
+      },
+      {
+        "_BPM": 130.38754074610668,
+        "_secTime": 159.35710416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 637.4284166666666
+      },
+      {
+        "_BPM": 126.52110881693768,
+        "_secTime": 159.83133333333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 639.3253333333333
+      },
+      {
+        "_BPM": 127.02333171613941,
+        "_secTime": 160.3036875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 641.21475
+      },
+      {
+        "_BPM": 129.07273786581754,
+        "_secTime": 160.76854166666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 643.0741666666667
+      },
+      {
+        "_BPM": 126.66950109223154,
+        "_secTime": 162.1895625,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 648.75825
+      },
+      {
+        "_BPM": 125.88512981903678,
+        "_secTime": 162.6661875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 650.66475
+      },
+      {
+        "_BPM": 128.3994650022327,
+        "_secTime": 163.13347916666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 652.5339166666666
+      },
+      {
+        "_BPM": 126.81358842826054,
+        "_secTime": 164.07975,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 656.319
+      },
+      {
+        "_BPM": 127.69919744601671,
+        "_secTime": 165.01945833333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 660.0778333333333
+      },
+      {
+        "_BPM": 128.15378454144997,
+        "_secTime": 165.95583333333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 663.8233333333333
+      },
+      {
+        "_BPM": 127.68787408556696,
+        "_secTime": 166.895625,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 667.5825
+      },
+      {
+        "_BPM": 128.57142857142807,
+        "_secTime": 167.36229166666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 669.4491666666667
+      },
+      {
+        "_BPM": 126.1138966128804,
+        "_secTime": 168.31381249999998,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 673.2552499999999
+      },
+      {
+        "_BPM": 127.43926722420743,
+        "_secTime": 168.784625,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 675.1385
+      },
+      {
+        "_BPM": 127.45054653272955,
+        "_secTime": 169.25539583333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 677.0215833333333
+      },
+      {
+        "_BPM": 124.88075622235766,
+        "_secTime": 169.73585416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 678.9434166666666
+      },
+      {
+        "_BPM": 129.9873623397675,
+        "_secTime": 170.1974375,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 680.78975
+      },
+      {
+        "_BPM": 126.77172286293145,
+        "_secTime": 170.67072916666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 682.6829166666666
+      },
+      {
+        "_BPM": 124.48132780083004,
+        "_secTime": 171.15272916666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 684.6109166666666
+      },
+      {
+        "_BPM": 120.59796490934059,
+        "_secTime": 171.65025,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 686.601
+      },
+      {
+        "_BPM": 126.81358842826054,
+        "_secTime": 172.59652083333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 690.3860833333333
+      },
+      {
+        "_BPM": 129.20883325857483,
+        "_secTime": 173.08652083333334,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 692.3460833333334
+      },
+      {
+        "_BPM": 129.20880581975862,
+        "_secTime": 173.52525,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 694.101
+      },
+      {
+        "_BPM": 126.74940586215888,
+        "_secTime": 173.998625,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 695.9945
+      },
+      {
+        "_BPM": 127.10742342660738,
+        "_secTime": 174.47066666666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 697.8826666666666
+      },
+      {
+        "_BPM": 125.85762356334251,
+        "_secTime": 174.94739583333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 699.7895833333333
+      },
+      {
+        "_BPM": 128.79567103438833,
+        "_secTime": 175.41325,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 701.653
+      },
+      {
+        "_BPM": 124.22360248447832,
+        "_secTime": 175.89624999999998,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 703.5849999999999
+      },
+      {
+        "_BPM": 124.99999999999527,
+        "_secTime": 176.37625,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 705.505
+      },
+      {
+        "_BPM": 131.0341689794788,
+        "_secTime": 176.83414583333334,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 707.3365833333334
+      },
+      {
+        "_BPM": 126.13599036461446,
+        "_secTime": 177.78549999999998,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 711.1419999999999
+      },
+      {
+        "_BPM": 126.74940586215888,
+        "_secTime": 178.258875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 713.0355
+      },
+      {
+        "_BPM": 129.24071082391157,
+        "_secTime": 178.72312499999998,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 714.8924999999999
+      },
+      {
+        "_BPM": 124.55669924746343,
+        "_secTime": 179.20483333333334,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 716.8193333333334
+      },
+      {
+        "_BPM": 122.31896368656436,
+        "_secTime": 179.69535416666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 718.7814166666666
+      },
+      {
+        "_BPM": 128.71220754843148,
+        "_secTime": 180.62766666666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 722.5106666666667
+      },
+      {
+        "_BPM": 125.54672401517031,
+        "_secTime": 182.06139583333334,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 728.2455833333333
+      },
+      {
+        "_BPM": 125.65993280684471,
+        "_secTime": 182.538875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 730.1555
+      },
+      {
+        "_BPM": 123.78046159796746,
+        "_secTime": 183.02360416666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 732.0944166666667
+      },
+      {
+        "_BPM": 123.79110251451229,
+        "_secTime": 183.50829166666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 734.0331666666666
+      },
+      {
+        "_BPM": 126.83313515656032,
+        "_secTime": 183.98135416666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 735.9254166666666
+      },
+      {
+        "_BPM": 128.53699901812044,
+        "_secTime": 184.4481458333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 737.7925833333333
+      },
+      {
+        "_BPM": 130.8020710327912,
+        "_secTime": 184.67749999999998,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 738.7099999999999
+      },
+      {
+        "_BPM": 128.26222499331087,
+        "_secTime": 184.91139583333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 739.6455833333333
+      },
+      {
+        "_BPM": 125.83425269527736,
+        "_secTime": 186.81866666666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 747.2746666666667
+      },
+      {
+        "_BPM": 126.67135819845754,
+        "_secTime": 187.29233333333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 749.1693333333333
+      },
+      {
+        "_BPM": 125.40276931115125,
+        "_secTime": 187.77079166666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 751.0831666666667
+      },
+      {
+        "_BPM": 127.27875372886943,
+        "_secTime": 188.71360416666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 754.8544166666667
+      },
+      {
+        "_BPM": 125.8631238528116,
+        "_secTime": 190.62043749999998,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 762.4817499999999
+      },
+      {
+        "_BPM": 126.30287866136706,
+        "_secTime": 191.11068749999998,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 764.4427499999999
+      },
+      {
+        "_BPM": 126.30285591845423,
+        "_secTime": 192.04558333333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 768.1823333333333
+      },
+      {
+        "_BPM": 125.67089933237132,
+        "_secTime": 192.52302083333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 770.0920833333333
+      },
+      {
+        "_BPM": 124.52438602559646,
+        "_secTime": 194.45035416666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 777.8014166666667
+      },
+      {
+        "_BPM": 124.26112093886107,
+        "_secTime": 194.93320833333334,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 779.7328333333334
+      },
+      {
+        "_BPM": 127.04014115571708,
+        "_secTime": 195.4055,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 781.622
+      },
+      {
+        "_BPM": 126.35686015978541,
+        "_secTime": 196.08763595473613,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 784.3505438189445
+      },
+      {
+        "_BPM": 126.35687992497895,
+        "_secTime": 196.35519117276237,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 785.4207646910495
+      },
+      {
+        "_BPM": 128.17710171066352,
+        "_secTime": 197.29139583333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 789.1655833333333
+      },
+      {
+        "_BPM": 128.4968545040824,
+        "_secTime": 197.75833333333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 791.0333333333333
+      },
+      {
+        "_BPM": 134.06572944791006,
+        "_secTime": 197.98210416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 791.9284166666666
+      },
+      {
+        "_BPM": 123.75386730835856,
+        "_secTime": 198.22452083333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 792.8980833333333
+      },
+      {
+        "_BPM": 125.61791218377398,
+        "_secTime": 199.6574375,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 798.62975
+      },
+      {
+        "_BPM": 128.4395486776931,
+        "_secTime": 200.12458333333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 800.4983333333333
+      },
+      {
+        "_BPM": 126.55446675748593,
+        "_secTime": 200.59868749999998,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 802.3947499999999
+      },
+      {
+        "_BPM": 123.08744337122758,
+        "_secTime": 201.08614583333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 804.3445833333333
+      },
+      {
+        "_BPM": 132.11009174311542,
+        "_secTime": 201.5403125,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 806.16125
+      },
+      {
+        "_BPM": 120.34366960803594,
+        "_secTime": 202.03888463258846,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 808.1555385303539
+      },
+      {
+        "_BPM": 126.94753365366859,
+        "_secTime": 202.51152083333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 810.0460833333333
+      },
+      {
+        "_BPM": 120.87128048012643,
+        "_secTime": 203.00791666666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 812.0316666666666
+      },
+      {
+        "_BPM": 131.45282760509588,
+        "_secTime": 203.46435416666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 813.8574166666666
+      },
+      {
+        "_BPM": 124.22360248447099,
+        "_secTime": 203.94735416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 815.7894166666666
+      },
+      {
+        "_BPM": 128.10818024109122,
+        "_secTime": 204.41570833333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 817.6628333333333
+      },
+      {
+        "_BPM": 125.63252486476817,
+        "_secTime": 204.89329166666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 819.5731666666667
+      },
+      {
+        "_BPM": 125.86862462305048,
+        "_secTime": 205.84666666666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 823.3866666666667
+      },
+      {
+        "_BPM": 126.1249425211854,
+        "_secTime": 206.79810416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 827.1924166666666
+      },
+      {
+        "_BPM": 124.82121960733643,
+        "_secTime": 207.27879166666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 829.1151666666666
+      },
+      {
+        "_BPM": 127.20286206439602,
+        "_secTime": 207.75047916666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 831.0019166666666
+      },
+      {
+        "_BPM": 126.46555131075692,
+        "_secTime": 208.22491666666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 832.8996666666667
+      },
+      {
+        "_BPM": 124.90241998439218,
+        "_secTime": 208.70529166666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 834.8211666666666
+      },
+      {
+        "_BPM": 127.71901816004873,
+        "_secTime": 209.64485416666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 838.5794166666666
+      },
+      {
+        "_BPM": 127.96019016306002,
+        "_secTime": 210.11374999999998,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 840.4549999999999
+      },
+      {
+        "_BPM": 128.44527696012568,
+        "_secTime": 210.8144375,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 843.25775
+      },
+      {
+        "_BPM": 122.76214833760048,
+        "_secTime": 211.0588125,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 844.23525
+      },
+      {
+        "_BPM": 123.57332875654075,
+        "_secTime": 211.54435416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 846.1774166666667
+      },
+      {
+        "_BPM": 129.78819287967787,
+        "_secTime": 212.00664583333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 848.0265833333333
+      },
+      {
+        "_BPM": 127.6067820641577,
+        "_secTime": 213.41722916666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 853.6689166666666
+      },
+      {
+        "_BPM": 127.30660753501455,
+        "_secTime": 213.87875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 855.515
+      },
+      {
+        "_BPM": 127.53278883658973,
+        "_secTime": 215.29991666666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 861.1996666666666
+      },
+      {
+        "_BPM": 127.21129000198896,
+        "_secTime": 216.24322916666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 864.9729166666666
+      },
+      {
+        "_BPM": 119.19543084181643,
+        "_secTime": 216.74660416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 866.9864166666666
+      },
+      {
+        "_BPM": 129.3335728399469,
+        "_secTime": 217.21052083333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 868.8420833333333
+      },
+      {
+        "_BPM": 126.83313515656032,
+        "_secTime": 217.68358333333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 870.7343333333333
+      },
+      {
+        "_BPM": 129.14219093314375,
+        "_secTime": 218.61279166666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 874.4511666666666
+      },
+      {
+        "_BPM": 125.26640859466508,
+        "_secTime": 219.09177083333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 876.3670833333333
+      },
+      {
+        "_BPM": 128.20132355996037,
+        "_secTime": 220.4958125,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 881.98325
+      },
+      {
+        "_BPM": 124.29866206301212,
+        "_secTime": 220.97852083333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 883.9140833333333
+      },
+      {
+        "_BPM": 127.55921205611828,
+        "_secTime": 222.85999999999999,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 891.4399999999999
+      },
+      {
+        "_BPM": 126.84710079499628,
+        "_secTime": 224.75204166666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 899.0081666666666
+      },
+      {
+        "_BPM": 126.73825030804474,
+        "_secTime": 227.59254166666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 910.3701666666666
+      },
+      {
+        "_BPM": 124.57286214801357,
+        "_secTime": 228.55583333333334,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 914.2233333333334
+      },
+      {
+        "_BPM": 127.98009198569288,
+        "_secTime": 230.43112499999998,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 921.7244999999999
+      },
+      {
+        "_BPM": 126.41697850252888,
+        "_secTime": 232.32960416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 929.3184166666666
+      },
+      {
+        "_BPM": 126.35596845488175,
+        "_secTime": 236.12839583333331,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 944.5135833333333
+      },
+      {
+        "_BPM": 126.21199671322849,
+        "_secTime": 238.02995833333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 952.1198333333333
+      },
+      {
+        "_BPM": 127.88916272563847,
+        "_secTime": 238.96827083333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 955.8730833333333
+      },
+      {
+        "_BPM": 125.89613568805622,
+        "_secTime": 239.44485416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 957.7794166666666
+      },
+      {
+        "_BPM": 123.91893636246539,
+        "_secTime": 239.92904166666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 959.7161666666666
+      },
+      {
+        "_BPM": 125.1412183888012,
+        "_secTime": 240.4085,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 961.634
+      },
+      {
+        "_BPM": 128.31365560258575,
+        "_secTime": 240.87610416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 963.5044166666667
+      },
+      {
+        "_BPM": 129.84085478563242,
+        "_secTime": 241.3382083333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 965.3528333333333
+      },
+      {
+        "_BPM": 123.6900876138115,
+        "_secTime": 241.82329166666665,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 967.2931666666666
+      },
+      {
+        "_BPM": 127.12425513131646,
+        "_secTime": 242.29527083333332,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 969.1810833333333
+      },
+      {
+        "_BPM": 127.77851723679093,
+        "_secTime": 242.7648333333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 971.0593333333333
+      },
+      {
+        "_BPM": 126.33795402702074,
+        "_secTime": 243.23975,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 972.959
+      },
+      {
+        "_BPM": 127.45618693573826,
+        "_secTime": 243.7105,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 974.842
+      },
+      {
+        "_BPM": 124.29329765655199,
+        "_secTime": 244.19322916666667,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 976.7729166666667
+      },
+      {
+        "_BPM": 122.53233492171594,
+        "_secTime": 244.68289583333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 978.7315833333333
+      },
+      {
+        "_BPM": 127.45336667183041,
+        "_secTime": 245.62441666666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 982.4976666666666
+      },
+      {
+        "_BPM": 128.70789341377562,
+        "_secTime": 247.48910416666666,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 989.9564166666667
+      },
+      {
+        "_BPM": 126.77311793641523,
+        "_secTime": 249.38225,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 997.529
+      },
+      {
+        "_BPM": 126.23274161735671,
+        "_secTime": 250.332875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 1001.3315
+      },
+      {
+        "_BPM": 125.52301255230272,
+        "_secTime": 251.288875,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 1005.1555
+      },
+      {
+        "_BPM": 122.20996350674567,
+        "_secTime": 251.77983333333333,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 1007.1193333333333
+      },
+      {
+        "_BPM": 123.21750641789468,
+        "_secTime": 251.79505032688002,
+        "_beatsPerBar": 4,
+        "_metronomeOffset": 1,
+        "_time": 1007.1802013075201
+      }
+    ],
     "_bookmarks": []
   },
   "_events": [
